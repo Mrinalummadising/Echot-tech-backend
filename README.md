@@ -66,7 +66,7 @@ Option 2: VS Code REST Client
 
 Use the app.http file:
 
-POST http://localhost:3000/api/transform
+POST http://localhost:3000/api/data
 Content-Type: application/json
 
 {
