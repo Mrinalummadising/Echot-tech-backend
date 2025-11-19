@@ -1,0 +1,51 @@
+POST http://localhost:3000/api/data
+Content-Type: application/json
+
+{
+  "sentence": "I love working with JavaScript and Node.js"
+}
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+
+{
+  "sentence": "I will become the strongest hero no matter what"
+}
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+
+{
+  "sentence": "My sword will protect everyone I care about"
+}
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+
+{
+  "sentence": "Even if I fall I will rise again stronger than before"
+}
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+
+{
+  "sentence": "The power of friendship will guide us through the darkness"
+}
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+
+{
+  "sentence": "No matter how tough the battle is I will never give up"
+}
