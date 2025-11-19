@@ -10,16 +10,6 @@ A simple Node.js Express API that transforms a sentence and returns:
 
 This API is designed for learning and testing purposes and includes an app.http file for easy testing using VS Code REST Client.
 
-### project structure
-
-project/
- ├── node_modules       
- ├── app.http       
- ├── package-lock.json
- ├── package.json
- ├── server.js
- └── README.md
-
 ### 🛠️ Installation
 npm install
 
@@ -36,7 +26,7 @@ http://localhost:3000
 ### 📡 API Endpoint
 
 
-POST /api/transform
+POST /api/data
 
 Request Body (JSON)
 {
@@ -66,7 +56,7 @@ Option 1: Postman
 
 Set method: POST
 
-URL: http://localhost:3000/api/transform
+URL: http://localhost:3000/api/data
 
 Body → raw → JSON
 
